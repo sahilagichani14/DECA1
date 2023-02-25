@@ -1,0 +1,4 @@
+analysis\StatementCounterTransformer.class
+analysis\StatementClassifierTransformer.class
+analysis\JimplePrinterTransformer.class
+analysis\ForbiddenMethodDetectionTransformer.class
